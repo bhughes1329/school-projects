@@ -1,0 +1,88 @@
+#==============================================================================#
+#                           CS 115 HW 01 Report                               #
+#==============================================================================#
++------------------------------------------------------------------------------+
+| Fill in your name and the Stevens Honor Code pledge on the following lines.  |
+| Writing the code exactly is required for full credit.                        |
++------------------------------------------------------------------------------+
+Name: Brooke Hughes
+
+Pledge: I pledge my honor that I have abided by the Stevens Honor System.
+
++------------------------------------------------------------------------------+
+| List the names and emails or classmates you discussed this homework with     |
+| Write "None" if you worked alone.                                            |
+| We hope you collaborate with, discuss, and help classmates.                  |
++------------------------------------------------------------------------------+
+Collaborators: None
+
+Sources: None
+
++------------------------------------------------------------------------------+
+| Briefly list any sources you consulted outside of the textbook and slides    |
++------------------------------------------------------------------------------+
+None.
+
++------------------------------------------------------------------------------+
+| Task 1 Written responses   
++------------------------------------------------------------------------------+
+1. The player in the story is a spy named Gerald who got caught by the enemy forces and now has to escape.
+2. Three possible endings for the player are getting caught by the guards, death, or escaping the complex.
+3. Some decisions that might lead to these endings are choosing to interact with guards, deciding where to go in the air vents, or creating some sort of distraction to get out.
+
++------------------------------------------------------------------------------+
+| Task 3 Written responses   
++------------------------------------------------------------------------------+
+1. The program behaved exactly how I expected it to. The prompts followed perfectly along with the story as I had intended.
+2. I am most proud of the fact that I made some decisions that resulted in the same ending, and I also made several more decisions than what was required for the assignment.
+3. After seeing the person play my game, I realized that some of my prompts had misspellings in them, so I fixed those. I didn't notice anything that was technically wrong with the way the game worked and progressed
+
++------------------------------------------------------------------------------+
+| Labor log: Log what you noticed about your experience in the process of      |
+| working on this assignment. While only 2 sentences are *required*, we        |
+| encourage you to reflect more to continue develop awareness of how you learn.|
+| For example, you may choose to include                                       |
+|    - Which strategies and/or resources you used to overcome difficulties     |
+|    - Timing: when you started the homework, how many hours you worked on it  |
+|    - Environment: where you worked on the homework, with whom, etc...        |
+|    - What you will continue and/or do differently for next homework          |
+|    - Which part you're proudest of                                           |
++------------------------------------------------------------------------------+
+I started the assignment by planning out the entirety of my control flow diagram so I wouldn't have to worry about coming up with prompts as I implemented my code. At first, I wasn't exactly sure how I could replicate the Choose-Your-Own Adventure style of game in code, but then I figured out that I could make the main function a bunch of branching if-statements that call a variety of different outside functions depending on the decisions the user makes. From there, writing the code and inserting all of the prompts was fairly simple. I started work on this project the day it was assigned, and I definitely worked on it a little bit every day so that I wasn't completely overwhelmed by it.
+
+
++------------------------------------------------------------------------------+
+| Path Printout:                                                               |
++------------------------------------------------------------------------------+
+Welcome to CHOOSE YOUR OWN ADVENTURE: ESCAPE THE COMPLEX! Press <Enter> to begin!
+
+You wake up in a padded room after being captured. After looking around for a way to escape you 
+a) Try to plead with the guard standing outside
+b) Feel around the walls for an opening
+c) Create a distraction
+Type in your action and press <Enter>: b
+
+You find a loose tile in the wall and climb into the opening. From there, you make your way into the ventilation system. You then go
+a) Left
+b) Up
+c) Right
+Type in your action and press <Enter>: b
+
+You come face-to-face with a massive fan. Do you
+a) Try to go through it
+b) Try to stick something between the blades
+c) Use your shoe
+Type in your action and press <Enter>: b
+
+You grab a rock and throw it into the fan. It bounces around and eventually hits you square in the head, knocking you out.
+
+GAME OVER.
+Thanks for playing!
+
+
++------------------------------------------------------------------------------+
+| What else would you like to share about this assignment?                     |
++------------------------------------------------------------------------------+
+Nothing.
+
+

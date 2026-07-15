@@ -1,0 +1,153 @@
+#==============================================================================#
+#                          CS 115 Homework 5 Report                            #
+#==============================================================================#
++------------------------------------------------------------------------------+
+| Fill in your name and the Stevens Honor Code pledge on the following lines.  |
+| Failure to fill this in will result in deducted marks.                       |
++------------------------------------------------------------------------------+
+Name: Brooke Hughes
+
+Pledge: I pledge my honor that I have abided by the Stevens Honor System.
+
++------------------------------------------------------------------------------+
+| If you have discussed this assignment with other students in the class, list |
+| them below (write "None" if you worked alone). Additionally, list any        |
+| additional resources you consulted.                                          |
++------------------------------------------------------------------------------+
+Collaborators: None
+
+Sources: None
+
++------------------------------------------------------------------------------+
+| Task 1: Instantiate a healing item of your choice using the Item             |
+| contstructor. Show your one line of code here.                               |
++------------------------------------------------------------------------------+
+healing_item = Item("Bandages", 0, 5, None, True)
+
++------------------------------------------------------------------------------+
+| Task 1: Copy and paste the result of calling print on your item with an      |
+| overridden __str__ into the report.                                          |
++------------------------------------------------------------------------------+
+Name: Bandages / Damage Points: 0 / Regeneration Points: 5 / Consumable
+
++------------------------------------------------------------------------------+
+| Task 3: Copy and paste the output of 1 sample interaction with your playable |
+| character here that you get by running get_next_move.                        |
++------------------------------------------------------------------------------+
+Here is your inventory
+- rusty axe (x1)
+- hero's sword (x1)
+
+Here are your enemies:
+little cubebot (1 HP)
+armor cube (2 HP)
+
+What is your next move?
+Enter item name: rusty axe
+Enter enemy number: 1
+Move: 
+    Item: Name: rusty axe / Damage Points: 1 / Damage Type: physical
+    Target character: Name: little cubebot / HP: 1
+
+
++------------------------------------------------------------------------------+
+| Task 3: (Optional) Describe your custom class. How does it differ from the   |
+| default Character class?                                                     |
++------------------------------------------------------------------------------+
+
+
+
++------------------------------------------------------------------------------+
+| Task 5: Playtesting report: can you defeat all enemies in the game as you    |
+| set it up?                                                                   |
++------------------------------------------------------------------------------+
+Yes
+
+
++------------------------------------------------------------------------------+
+| Task 5: Playtesting report: Were you or an external playtester able to find  |
+| any logical or runtime errors? If so, describe one error and how you fixed   |
+| your code.                                                                   |
++------------------------------------------------------------------------------+
+No, neither me or my external playtester were able to find any logical or runtime errors.
+
++------------------------------------------------------------------------------+
+| Task 5: Copy and paste the outputs that result from at least 3 rounds of     |
+| running the main_game_loop in your game                                      |
++------------------------------------------------------------------------------+
+Main character info: Name: player / HP: 15
+Here is your inventory
+- rusty axe (x1)
+- hero's sword (x1)
+
+Here are your enemies:
+little cubebot (1 HP)
+armor cube (2 HP)
+
+What is your next move?
+Enter item name: rusty axe
+Enter enemy number: 2
+Your stats: Name: player / HP: 14
+Main character info: Name: player / HP: 14
+Here is your inventory
+- rusty axe (x1)
+- hero's sword (x1)
+
+Here are your enemies:
+little cubebot (1 HP)
+armor cube (1 HP)
+
+What is your next move?
+Enter item name: rusty axe
+Enter enemy number: 1
+Your stats: Name: player / HP: 14
+Main character info: Name: player / HP: 14
+Here is your inventory
+- rusty axe (x2)
+- hero's sword (x1)
+
+Here are your enemies:
+armor cube (1 HP)
+
+What is your next move?
+Enter item name: rusty axe
+Enter enemy number: 1
+Your stats: Name: player / HP: 14
+Main character info: Name: player / HP: 14
+You win!
+
++------------------------------------------------------------------------------+
+| Debugging Labor Log (Required): write about                                  |
+| 1. How did you locate and correct any mistakes in your code? What strategies |
+| did you use?  (At least 2 sentences)                                         |
+| 2. Which strategies for correcting your code were the most and least         |
+| effective? (At least 2 sentences)                                            |
++------------------------------------------------------------------------------+
+To locate mistakes in my code, I created objects and printed out their attributes before and after using methods. To correct those mistakes, I compared the printed outputs I got to what I expected the attributes to be after the methods were run. The strategies for correcting my code that were the most effective were reading the error messages I received and using that information to figure out the line of code that is causing the error. The least effective strategies for correcting my code was assuming what the problem was and trying to fix my code without thoroughly determining the root of the error.
+
+
++------------------------------------------------------------------------------+
+| Optional Labor Log: To develop awareness of your software dev process,       |
+| we encourage you to write about and share your experience working on the     |
+| homework. For example, you may share:                                        |
+| Timing: when you started the homework, how many hours you worked on it       |
+| Environment: where you worked on the homework, with whom, etc...             |
+| What you will continue and/or do differently for next homework               |
+| What you're proudest of                                                      |
+|                                                                              |
++------------------------------------------------------------------------------+
+
+
++------------------------------------------------------------------------------+
+| Did you encounter any problems while doing this assignment? If so, how did   |
+| you resolve them?                                                            |
++------------------------------------------------------------------------------+
+No.
+
+
++------------------------------------------------------------------------------+
+| Do you have any additional comments about this assignment?                   |
++------------------------------------------------------------------------------+
+No.
+
+

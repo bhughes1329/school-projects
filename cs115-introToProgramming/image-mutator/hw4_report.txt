@@ -1,0 +1,85 @@
+#==============================================================================#
+#                          CS 115 Homework 4 Report                            #
+#==============================================================================#
++------------------------------------------------------------------------------+
+| Fill in your name and the Stevens Honor Code pledge on the following lines.  |
+| Failure to fill this in will result in deducted marks.                       |
++------------------------------------------------------------------------------+
+Name: Brooke Hughes
+
+Pledge: I pledge my honor that I have abided by the Stevens Honor System.
+
++------------------------------------------------------------------------------+
+| If you have discussed this assignment with other students in the class, list |
+| them below (write "None" if you worked alone). Additionally, list any        |
+| additional resources you consulted.                                          |
++------------------------------------------------------------------------------+
+Collaborators: Sawyer Makl
+
+Sources: None
+
++------------------------------------------------------------------------------+
+| Task 1: How many pixels wide and tall is small_secret_image.ppm?             |
++------------------------------------------------------------------------------+
+5 x 5 pixels
+
++------------------------------------------------------------------------------+
+| Task 1: How many rows of image data are there? (ignoring the header)      |
++------------------------------------------------------------------------------+
+5 rows of image data
+
++------------------------------------------------------------------------------+
+| Task 1: How many columns of image data are there? (ignoring the header)      |
++------------------------------------------------------------------------------+
+5 columns of image data
+
+
++------------------------------------------------------------------------------+
+| Task 1: What are the RGB values of the top-left pixel?                       |
++------------------------------------------------------------------------------+
+(255, 255, 255)
+
++------------------------------------------------------------------------------+
+| Task 1: Explain as you would to your non-hacker friends how the RGB values  |
+| are encoded in this image format.                                            |
++------------------------------------------------------------------------------+
+Each pixel in an image has its own color, and that color is determined by the pixel's RGB (Red, Green, Blue) value. In this image format, the pixels are organized into rows and columns reading left to right and top to bottom, and the three numbers in each entry are the corresponding RGB values of the pixel at that particular point in the image.
+
+
++------------------------------------------------------------------------------+
+| Debugging Labor Log (Required): write about                                  |
+| 1. How did you locate and correct any mistakes in your code? What strategies |
+| did you use?  (At least 2 sentences)                                         |
+| 2. Which strategies for correcting your code were the most and least         |
+| effective? (At least 2 sentences)                                            |
++------------------------------------------------------------------------------+
+1. I located mistakes in my code by reading the stack trace and the type of error whenever my code would result in an error. Also, if it was a logic error, I would test different values in order to determine where exactly the error is occurring. To fix the error, I would try different values to figure out what is wrong with the code, and then I would make changes to it until the error goes away.
+
+2. The most effective strategies for correcting my code were trying different cases to test my code and making small changes to my code until the problem is fixed. The least effective strategies for correcting my code were just making changes without recognizing the problem and just re-doing the whole function to try to not get an error.
+
+
++------------------------------------------------------------------------------+
+| Optional Labor Log: To develop awareness of your software dev process,       |
+| we encourage you to write about and share your experience working on the     |
+| homework. For example, you may share:                                        |
+| Timing: when you started the homework, how many hours you worked on it       |
+| Environment: where you worked on the homework, with whom, etc...             |
+| What you will continue and/or do differently for next homework               |
+| What you're proudest of                                                      |
+|                                                                              |
++------------------------------------------------------------------------------+
+Put your answer here.
+
++------------------------------------------------------------------------------+
+| Did you encounter any problems while doing this assignment? If so, how did   |
+| you resolve them?                                                            |
++------------------------------------------------------------------------------+
+No.
+
+
++------------------------------------------------------------------------------+
+| Do you have any additional comments about this assignment?                   |
++------------------------------------------------------------------------------+
+No. :)
+
+

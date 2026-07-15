@@ -1,0 +1,41 @@
+#==============================================================================#
+#                           CS 115 Homework 6 Report                           #
+#==============================================================================#
++------------------------------------------------------------------------------+
+| Fill in your name and the Stevens Honor Code pledge on the following lines.  |
+| Failure to fill this in will result in deducted marks.                       |
++------------------------------------------------------------------------------+
+Name: Brooke Hughes
+
+Pledge: I pledge my honor that I have abided by the Stevens Honor System.
+
++------------------------------------------------------------------------------+
+| If you have discussed this assignment with other students in the class, list |
+| them below (write "None" if you worked alone). Additionally, list any        |
+| additional resources you consulted.                                          |
++------------------------------------------------------------------------------+
+Collaborators: None
+
+Sources: None
+
+
++------------------------------------------------------------------------------+
+| Labor log: Log what you noticed about your experience in the process of      |
+| working on this assignment. While only 2 sentences are *required*, we        |
+| encourage you to reflect more to continue develop awareness of how you learn.|
+| For example, you may choose to include                                       |
+|    - Which strategies and/or resources you used to overcome difficulties     |
+|    - Timing: when you started the homework, how many hours you worked on it  |
+|    - Environment: where you worked on the homework, with whom, etc...        |
+|    - What you will continue and/or do differently for next homework          |
+|    - Which part you're proudest of                                           |
++------------------------------------------------------------------------------+
+I started the homework the day before it was due, which caused me to work through it while I was stressed, which made me more make mistakes more easily. I'm proudest of the first function parse_file, because before doing the homework I was not confident in my ability to do File I/O but I was able to easily do the function without any exterior help.
+
+
++------------------------------------------------------------------------------+
+| Do you have any additional comments about this assignment?                   |
++------------------------------------------------------------------------------+
+No.
+
+

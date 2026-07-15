@@ -1,0 +1,51 @@
+#==============================================================================#
+#                           CS 115 Homework 3 Report                           #
+#==============================================================================#
++------------------------------------------------------------------------------+
+| Fill in your name and the Stevens Honor Code pledge on the following lines.  |
+| Failure to fill this in will result in deducted marks.                       |
++------------------------------------------------------------------------------+
+Name: Brooke Hughes
+
+Pledge: I pledge my honor that I have abided by the Stevens Honor System.
+
++------------------------------------------------------------------------------+
+| If you have discussed this assignment with other students in the class, list |
+| them below (write "None" if you worked alone). Additionally, list any        |
+| additional resources you consulted.                                          |
++------------------------------------------------------------------------------+
+Collaborators: Sawyer Makl
+
+Sources: None
+
++------------------------------------------------------------------------------+
+| Debugging Labor Log (Required): write about                                  |
+| 1. How did you locate and correct any mistakes in your code? What strategies |
+| did you use?  (At least 2 sentences)                                         |
+| 2. Which strategies for correcting your code were the most and least         |
+| effective? (At least 2 sentences)                                            |
++------------------------------------------------------------------------------+
+1. I had an issue with my code where in my empty function, the list I created how several cells that were allotted to the same memory in my program. As a result, one of the test cases kept giving me an error even if it looked like my output was correct. In order to locate exactly what the error was, I read the error message that appeared and deciphered it, which made me realize my mistake and led me to redo my function to make it recursive so that it didn't have that issue anymore.
+2. Strategies I used to correct my code that were the most effective were reading stack traces to find the exact line where the error was occurring, and reading the error type to determine the specific problem that was preventing my code from running. Strategies I used to correct my code that were the least effective were just trying to tweak my code without reading the error message or stack trace.
+
+
++------------------------------------------------------------------------------+
+| Optional Labor Log: To develop awareness of your software dev process,       |
+| we encourage you to write about and share your experience working on the     |
+| homework. For example, you may share:                                        |
+| Timing: when you started the homework, how many hours you worked on it       |
+| Environment: where you worked on the homework, with whom, etc...             | 
+| What you will continue and/or do differently for next homework               |
+| What you're proudest of                                                      |
+|                                                                              |
++------------------------------------------------------------------------------+
+Put your answer here.
+
+
+
++------------------------------------------------------------------------------+
+| Do you have any additional comments about this assignment?                   |
++------------------------------------------------------------------------------+
+no!
+
+
